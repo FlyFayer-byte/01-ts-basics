@@ -1,3 +1,5 @@
+console.log("Task 2: Interface Definition");
+
 interface Product {
   readonly id: number;  // Це поле тільки для читання
   title: string;        // Це поле обов'язкове
