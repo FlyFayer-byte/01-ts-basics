@@ -6,7 +6,7 @@ console.log("Task 4:");
 function printUserInfo(
     name: string,
     age: number,
-    email?: String
+    email?: string
 ): void {   // вказує, що функція не повертає значення
   console.log("Name:", name);
   console.log("Age:", age);
